@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import calculate from '../../logic/calculate';
-import './calculator.css';
+import './Calculator.css';
 
 const operators = ['÷', 'x', '-', '+', '='];
 const digits = ['AC', '+/-', '%', '7', '8', '9', '4', '5', '6', '1', '2', '3', '0', '.'];
