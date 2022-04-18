@@ -9,7 +9,7 @@ Math Magician is a single Page App that have three interfaces. It allows users t
 - CSS
 
 ## Live Demo
-Visit live demo (SOON...)
+Visit live demo [here](https://math-magician-202.netlify.app/)
 
 ## installation
 
