@@ -16,7 +16,7 @@ Visit live demo (SOON...)
 To get a local copy up and running follow these simple example steps.
 
 - clone the repository by running
-``` https://github.com/levy002/Math-Magicians.git ```
+``` https://github.com/levy002/Math-Magician.git ```
 - navigate to the folder
 ``` cd <DIRECTORY> ```
 - Install packages
