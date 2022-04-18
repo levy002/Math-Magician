@@ -1,5 +1,5 @@
 button {
-  padding: 1.5rem 2.5rem;
+  padding: 5%;
   font-size: 1.3rem;
   font-weight: bold;
   background-color: #fff;
@@ -35,12 +35,14 @@ button:hover {
 }
 
 .calc-digits {
+  width: 85%;
   display: grid;
   flex: 1;
   grid-template-columns: 1fr 1fr 1fr;
 }
 
 .calc-operators {
+  width: 15%;
   display: flex;
   flex-flow: column;
 }
