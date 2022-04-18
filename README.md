@@ -2,6 +2,8 @@
 # Math Magicians
 Math Magician is a single Page App that have three interfaces. It allows users to perform simple math calculations, user can read the mathematics background history and random mathematics quotes.
 
+<img src="./images/screenshot.png" alt="App Screenshoot">
+
 # Built with
 - React.js
 - CSS
@@ -14,7 +16,7 @@ Visit live demo (SOON...)
 To get a local copy up and running follow these simple example steps.
 
 - clone the repository by running
-``` https://github.com/levy002/Math-Magicians.git ```
+``` https://github.com/levy002/Math-Magician.git ```
 - navigate to the folder
 ``` cd <DIRECTORY> ```
 - Install packages
