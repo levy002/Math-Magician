@@ -2,6 +2,8 @@
 # Math Magicians
 Math Magician is a single Page App that have three interfaces. It allows users to perform simple math calculations, user can read the mathematics background history and random mathematics quotes.
 
+<img src="./images/screenshot.png" alt="App Screenshoot">
+
 # Built with
 - React.js
 - CSS
