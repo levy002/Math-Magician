@@ -8,7 +8,6 @@ Math Magician is a single Page App that have three interfaces. It allows users t
 
 ## Live Demo
 Visit live demo (SOON...)
-# Getting Started with Create React App
 
 ## installation
 
