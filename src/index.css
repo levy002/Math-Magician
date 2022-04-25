@@ -19,8 +19,4 @@ body {
   #root {
     overflow: auto;
   }
-
-  #root > * {
-    align-self: space-around;
-  }
 }

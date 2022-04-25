@@ -34,14 +34,14 @@ nav {
   color: rgb(14, 245, 14);
 }
 
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 768px) {
   .logo {
     margin-left: 10px;
   }
 
   .routes {
-     gap: 10px;
-     margin-right: 10px;
+    gap: 10px;
+    margin-right: 10px;
   }
 
   .routes a {
