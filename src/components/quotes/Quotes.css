@@ -1,0 +1,42 @@
+.quotes-Container {
+  background-color: rgba(195, 251, 255, 0.8);
+  padding: 50px;
+  border-radius: 20px;
+  display: flex;
+  flex-flow: column;
+  gap: 25px;
+  margin: 0 10vh;
+}
+
+.quotes-Container li {
+  display: flex;
+  flex-flow: column;
+  gap: 3px;
+}
+
+.quotes-Container li p {
+  margin: 0;
+}
+
+.quote {
+  font-size: 1.2rem;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.creator {
+  color: rgb(66, 6, 163);
+  font-weight: bold;
+  font-style: italic;
+}
+
+@media only screen and (max-width: 768px) {
+  .quotes-Container {
+    margin: 0 3vh;
+    padding: 30px;
+  }
+
+  .quotes-Container :nth-child(5) {
+    display: none;
+  }
+}

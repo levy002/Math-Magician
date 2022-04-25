@@ -1,0 +1,50 @@
+nav {
+  position: fixed;
+  background-color: rgba(3, 58, 7, 0.9);
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  color: rgb(14, 245, 14);
+  font-weight: bold;
+}
+
+.routes {
+  display: flex;
+  gap: 30px;
+  margin-right: 70px;
+}
+
+.routes a {
+  text-decoration: none;
+  font-size: 1.3rem;
+  color: #fff;
+  font-weight: bold;
+}
+
+.routes a:hover,
+.routes a:focus {
+  color: rgb(14, 245, 14);
+}
+
+@media only screen and (max-width: 768px) {
+  .logo {
+    margin-left: 10px;
+  }
+
+  .routes {
+    gap: 10px;
+    margin-right: 10px;
+  }
+
+  .routes a {
+    font-size: 1rem;
+  }
+}

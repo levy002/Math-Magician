@@ -1,0 +1,32 @@
+.history {
+  display: flex;
+  flex-flow: column;
+  color: #000;
+  background-color: rgba(195, 251, 255, 0.8);
+  padding: 50px;
+  font-weight: bold;
+  border-radius: 20px;
+  margin: 0 10vh;
+}
+
+.history p {
+  padding: 0;
+  font-size: 1.1rem;
+}
+
+.title {
+  font-size: 2rem;
+  align-self: center;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 768px) {
+  .history {
+    margin: 0 3vh;
+    padding: 30px;
+  }
+
+  .history :nth-child(3) {
+    display: none;
+  }
+}
