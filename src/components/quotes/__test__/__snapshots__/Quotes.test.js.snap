@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<ul
+  className="quotes-Container"
+>
+  <li>
+    <p
+      className="quote"
+    >
+      "
+      The essence of mathematics resides in its freedom.
+      "
+    </p>
+    <p
+      className="creator"
+    >
+      Georg Cantor
+    </p>
+  </li>
+  <li>
+    <p
+      className="quote"
+    >
+      "
+      Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers.
+      "
+    </p>
+    <p
+      className="creator"
+    >
+      Shakuntala Devi
+    </p>
+  </li>
+  <li>
+    <p
+      className="quote"
+    >
+      "
+      Mathematics is the most beautiful and most powerful creation of the human spirit.
+      "
+    </p>
+    <p
+      className="creator"
+    >
+      Stefan Banach
+    </p>
+  </li>
+  <li>
+    <p
+      className="quote"
+    >
+      "
+      Mathematics as an expression of the human mind reflects the active will, the contemplative reason, and the desire for aesthetic perfection. Its basic elements are logic and intuition, analysis and construction, generality and individuality.
+      "
+    </p>
+    <p
+      className="creator"
+    >
+      Richard Courant
+    </p>
+  </li>
+  <li>
+    <p
+      className="quote"
+    >
+      "
+      As far as the laws of mathematics refer to reality, they are not certain, and as far as they are certain, they do not refer to reality.
+      "
+    </p>
+    <p
+      className="creator"
+    >
+      Albert Einstein
+    </p>
+  </li>
+</ul>
+`;
